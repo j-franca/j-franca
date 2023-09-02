@@ -25,3 +25,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-franca&layout=compact)](https://github.com/j-franca)
 
+Portfolio in progress!
+
